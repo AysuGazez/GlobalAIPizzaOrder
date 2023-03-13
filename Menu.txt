@@ -1,0 +1,14 @@
+* Please choose a pizza:
+1: Classic Pizza
+2: Margarita Pizza
+3: Turkish Pizza
+4: Quattro Formaggi Pizza
+5: Vegetarian Pizza
+* and extra ingredients:
+11: Olive
+12: Mushroom
+13: Mozzarella
+14: Beef
+15: Onion
+16: Corn
+* Thank you!
